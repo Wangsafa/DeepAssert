@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# AssertMiner
+# DeepAssert
 This repository contains the source code for the paper *"DeepAssert: An LLM-Aided Verification Framework with Fine-Grained Assertion Generation for Modules with Extracted Module Specifications"*.
 
 ## Files
@@ -20,6 +19,4 @@ This repository contains the source code for the paper *"DeepAssert: An LLM-Aide
   Contains logs preserved during our experiments.
 
 **Note:** In our experiments, we found that the accuracy varies considerably across different submodules.
-=======
-# DeepAssert
->>>>>>> fe355310e30e9bf10b1b996d6c85eccc4576fab8
+
